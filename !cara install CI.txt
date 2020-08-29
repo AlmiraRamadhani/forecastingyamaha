@@ -1,0 +1,51 @@
+REQUIREMENTS:
+- Install xampp (download di https://www.apachefriends.org/xampp-files/5.6.37/xampp-win32-5.6.37-0-VC11-installer.exe)
+- Buka aplikasi xampp, hidupkan Apache dan MySQL
+- Buat folder baru di directori c:\xammpp\htdocs\ dengan nama forecasting-tm-ci
+- copy semua isi dari folder ini ke dalam folder forecasting-tm-ci
+
+IMPORT DATABASE:
+- buka browser, ketikkan http://localhost/phpmyadmin
+- Pilih import (tidak usah buat database baru)
+- Pilih file forecasting_tm_ci.sql yang ada di folder database
+- Klik go untuk mulai import database
+
+RUNNING PROGRAM
+- Ketikkan http://localhost/forecasting-tm-ci di browser
+- Jika ada dialog login masukkan user dan pass : admin
+
+CARA UBAH NAMA DATABASE (jika diperlukan)
+- Buka http://localhost/phpmyadmin/ di browser
+- Pilih nama database di panel kiri (forecasting_tm_ci)
+- Pilih menu "Operations"
+- Pada kolom isian "Rename database to" Isikan nama database tanpa spasi
+- Klik Go
+
+- Buka file application/config/database.php
+- Sesuaikan nama di database dengan nama baru yang sudah diubah
+
+CARA GANTI TEMA:
+- Kunjungi https://bootswatch.com/3/
+- Pilih salah satu tema, kemudian download bootstrap.min.css-nya, save (Ctrl + S) dan taruh di folder [project]/assets/css/ dengan nama sesuai temanya misal tema simplex namanya simplex-bootstrap.min.css
+- Untuk mengganti buka applications/view/header.php, kemudian cari cooding yang isi [tema]-bootstrap.min.css ganti dengan nama tema yang sudah didownload (misal simplex-bootstrap.min.css)
+- Lakukan langkah yang sama jika mengubah tema di applications/view/login.php
+
+MENGUBAH URL WEB
+- Jika mengubah directori forecasting-tm-ci, 
+- Anda juga harus mengubah pengaturan di folder application\config\config.php pada bagian base_url dengan directory yang Anda inginkan.
+
+LAIN-LAIN
+- ERD (Entity Relationship Diagram) ada di folder database
+- Perhitungan dalam bentuk excel ada di folder database
+
+Jika kurang jelas, bisa menghubungi:
+* Herdi
+* 085 792 658 056
+* herdikayan@gmail.com
+
+Saya bantu free jika ada error atau bugs selama tidak ada penambahan fitur, penambahan fitur biasanya dihitung 100k per tabel di database
+
+Website: https://tugasakhir.id/
+Tokopedia: https://www.tokopedia.com/RumahSourceCode
+Facebook: https://www.facebook.com/RumahSourceCode
+Subscribe : https://www.youtube.com/channel/UCzYt2AnVkc-rLqqiKcGs4yg?sub_confirmation=1

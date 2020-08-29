@@ -1,0 +1,2 @@
+datepicker bulan dan tahun aja di transaksi, nama folder dataset, kalo bulan sm, tahun sama gabisa input. kalo input bulan kelewatan, urutan sesuai bulan dan tahun
+peramalan bulan-tahun awal sampai bulan-tahun akhir.

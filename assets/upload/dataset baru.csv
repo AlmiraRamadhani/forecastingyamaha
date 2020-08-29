@@ -1,0 +1,175 @@
+No,TKP,waktu kejadian,jenis kendaraan,tipe kecelakaan,penyebab,korban,tingkat korban,Jenis kecelakaan
+1,Jl. DR. Djundjunan ,Sepi,R2,Tabrak Belakang,tidak tertib,Luka Ringan,rendah,Sedang
+2,Jl. Kembar Barat ,Ramai,R4,Tabrak Samping,lengah,Luka Ringan,rendah,Sedang
+3,Jl.PHH.Mustopa ,Ramai,R4,Tabrak Depan,tidak terampil,Luka Ringan,Tinggi,Sedang
+4,Jl. Kopo ,Ramai,R2,Tabrak Samping,lengah,Meninggal dunia,rendah,Berat
+5,Jl. AH.Nasution ,Sedang,R2,Tabrak Manusia,kecepatan tinggi,Luka Ringan,rendah,Sedang
+6,Jl. Soekarno Hatta ,Ramai,R2,Tabrak Samping,tidak terampil,Luka Ringan,Tinggi,Sedang
+7,Jl. Cihampelas ,Sepi,R4,Tabrak Belakang,lengah,Luka Berat,rendah,Berat
+8,Jl. Terusan Pasir Koja ,Sedang,R4,Tabrak Belakang,tidak terampil,Luka Berat,rendah,Berat
+9,Jl. Surapati                          ,Sedang,R2,Tabrak Belakang,lengah,Luka Ringan,rendah,Sedang
+10,Jl.Cikapayang ,Ramai,R2,Tabrak Samping,tidak tertib,Luka Ringan,rendah,Sedang
+11,Jl. Merdeka ,Sepi,R2,Tabrak Samping,tidak tertib,Meninggal dunia,rendah,Berat
+12,Jl. Raya Cibeureum ,Sepi,R2,Tabrak Samping,tidak terampil,Luka Berat,rendah,Berat
+13,Jl. PHH Mustofa ,Sepi,R2,Tabrak Samping,lengah,Luka Ringan,rendah,Sedang
+14,Jl. DR.Setiabudhi ,Sepi,R2,Tabrak Samping,kecepatan tinggi,Meninggal dunia,rendah,Berat
+15,Jl. Ir. H. Djuanda ,Sepi,R2,Tabrak Belakang,lengah,Luka Ringan,rendah,Sedang
+16,Jl. Mohamad Toha ,Ramai,R2,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+17,Jl. AH.Nasution ,Sedang,R2,Tabrak Samping,lengah,Luka Ringan,rendah,Sedang
+18,Jl. Terusan Buahbtu ,Ramai,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+19,Jl. Cimindi Raya ,Sepi,R2,Tabrak Belakang,Mengantuk,Luka Ringan,rendah,Sedang
+20,Jl. Bodogol depan ,Sedang,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+21,Jl. Rancabolang ,Sepi,R2,Tabrak Manusia,kecepatan tinggi,Meninggal dunia,rendah,Berat
+22,Jl. DR.Setiabudhi ,Sepi,R2,Tabrak Belakang,Mengantuk,Luka Ringan,rendah,Sedang
+23,Jl. Kopo ,Sepi,R2,Tabrak Depan,tidak tertib,Luka Ringan,Tinggi,Sedang
+24,Jl. Pagarsih ,Ramai,R2,Tabrak Belakang,lengah,Luka Ringan,Tinggi,Sedang
+25,Jl. Soekarno Hatta ,Sepi,R2,Tabrak Belakang,tidak tertib,Meninggal dunia,rendah,Berat
+26,Jl. Abdurahman Saleh ,Sedang,R2,Tabrak Belakang,lengah,Luka Ringan,rendah,Sedang
+27,Jl. Suryasumantri ,Sedang,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+28,Jl. Soekarno Hatta ,Ramai,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+29,Jl. AH.Nasution ,Sepi,R4,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+30,Jl. AH.Nasution ,Sepi,R2,Tabrak Belakang,lengah,Luka Ringan,rendah,Sedang
+31,Jl. AH.Nasution ,Sepi,R4,Tabrak Samping,tidak tertib,Luka Ringan,Tinggi,Sedang
+32,Jl. Jendral Sudirman  ,Sepi,R2,Tabrak Manusia,kecepatan tinggi,Luka Ringan,Tinggi,Sedang
+33,Jl. Holis ,Sepi,R2,Tabrak Samping,lengah,Luka Ringan,rendah,Sedang
+34,Jl. RE.Martadinata ,Ramai,R2,Tabrak Samping,tidak tertib,Luka Ringan,Tinggi,Sedang
+35,Jl. Antapani ,Sepi,R2,Tabrak Manusia,kecepatan tinggi,Luka Ringan,rendah,Sedang
+36,Jl. DR.Setiabudhi                ,Sepi,R2,Tabrak Samping,tidak terampil,Luka Ringan,Tinggi,Sedang
+37,Jl. Soekarno Hatta ,Ramai,R2,Tabrak Samping,tidak tertib,Luka Ringan,rendah,Sedang
+38,Jl. Ahmad Yani                ,Sepi,R2,Tabrak Depan,Mengantuk,Luka Ringan,rendah,Sedang
+39,Jl. Peta                            ,Sedang,R4,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+40,Jl. Padjajaran                     ,Ramai,R2,Tabrak Samping,lengah,Luka Ringan,Tinggi,Sedang
+41,Jl. Soekarno Hatta ,Sedang,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+42,Jl. Padjajaran                     ,Sepi,R2,Tabrak Samping,lengah,Luka Ringan,Tinggi,Sedang
+43,Jl. Kebon Bibit ,Sedang,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+44,Jl. Soekarno Hatta ,Sedang,R2,Tabrak Belakang,lengah,Meninggal dunia,rendah,Berat
+45,Jl. Rumah Sakit ,Sepi,R2,Tabrak Manusia,kecepatan tinggi,Luka Ringan,rendah,Sedang
+46,Jl. Layang Pasupati,Sepi,R2,Tabrak Samping,tidak terampil,Luka Ringan,Tinggi,Sedang
+47,Jl. Derwati,Sedang,R4,Tabrak Depan,penyebab lain,Luka Ringan,rendah,Sedang
+48,Jl. Ahmad Yani ,Ramai,R2,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+49,Jl. Gatot Soebroto ,Sepi,R2,Tabrak Depan,penyebab lain,Luka Ringan,Tinggi,Sedang
+50,Jl. Ahmad Yani ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+51,Jl. Cipaganti ,Sepi,R4,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+52,Jl. Soekarno Hatta ,Sepi,R2,Tabrak Samping,tidak terampil,Meninggal dunia,rendah,Berat
+53,Jl. Soekarno Hatta ,Ramai,R2,Tabrak Depan,tidak tertib,Luka Ringan,rendah,Sedang
+54,Jl. Jendral Sudirman  ,Ramai,R4,Tabrak Samping,tidak terampil,Luka Berat,rendah,Berat
+55,Jl. Soekarno Hatta ,Sepi,R2,Tabrak Manusia,penyebab lain,Luka Ringan,rendah,Sedang
+56,Jl. AH.Nasution ,Sepi,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+57,Jl. Ahmad Yani ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+58,Jl. Suryasumantri ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+59,Jl. Peta ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+60,Jl.ibu Inggit Garnasih ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+61,Jl. Arcamanik ,Ramai,R4,Tabrak Manusia,tidak tertib,Luka Ringan,rendah,Sedang
+62,Jl. Cigadung Raya ,Ramai,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+63,Jl.PHH.Mustopa ,Sepi,R2,Tabrak Manusia,lengah,Meninggal dunia,Tinggi,Berat
+64,Jl. Ranca Numpang ,Sedang,R2,Tabrak Depan,tidak terampil,Meninggal dunia,Tinggi,Berat
+65,Jl. Babakan Ciparay ,Sepi,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+66,Jl. Pasir Koja ,Sepi,R2,Tabrak Depan,tidak tertib,Luka Ringan,rendah,Sedang
+67,Jl. DR.Setiabudhi ,Sepi,R2,Tabrak Manusia,tidak terampil,Meninggal dunia,rendah,Berat
+68,Jl. Ibrahim Adjie,Sepi,R4,Tabrak Depan,penyebab lain,Luka Ringan,rendah,Sedang
+69,Jl. Ibrahim Adjie,Sepi,R4,Tabrak Tunggal,Mengantuk,Luka Ringan,Tinggi,Sedang
+70,Jl. Layang Pasupati,Sepi,R4,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+71,Jl. Gatot Soebroto ,Sepi,R2,Tabrak Tunggal,Mengantuk,Meninggal dunia,rendah,Berat
+72,Jl. Burangrang ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+73,Jl. Eykman ,Sedang,R2,Tabrak Depan,lengah,Meninggal dunia,rendah,Berat
+74,Jl. AH.Nasution ,Ramai,R2,Tabrak Samping,tidak terampil,Meninggal dunia,rendah,Berat
+75,Jl.Soekarno Hatta ,Sedang,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+76,Jl.Soekarno Hatta ,Ramai,R2,Tabrak Depan,penyebab lain,Luka Ringan,rendah,Sedang
+77,Jl. Ahmad Yani ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+78,Jl. Gunung Batu      ,Sepi,R4,Tabrak Tunggal,tidak terampil,Tidak Ada,Tidak ada,Ringan
+79,Jl. Soekarno Hatta ,Sedang,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+80,Jl. AH.Nasution ,Sepi,R2,Tabrak Manusia,lengah,Meninggal dunia,rendah,Berat
+81,Jl. Ibrahim Adjie,Sedang,R2,Tabrak Depan,tidak terampil,Tidak Ada,Tidak ada,Ringan
+82,Jl. Ibrahim Adjie,Sedang,R4,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+83,Jl. Naripan ,Sepi,R4,Tabrak Depan,tidak tertib,Meninggal dunia,rendah,Berat
+84,Jl. Ir. H. Djuanda ,Ramai,R2,Tabrak Depan,tidak tertib,Luka Ringan,rendah,Sedang
+85,Jl. Manisi                           ,Sepi,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+86,Jl. Laswi                           ,Sedang,R2,Tabrak Depan,penyebab lain,Luka Ringan,rendah,Sedang
+87,Jl. Pasteur ,Sedang,R4,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+88,Jl. Gatot Soebroto ,Sepi,R2,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+89,Jl. Raya Cibeureum ,Sepi,R2,Tabrak Depan,tidak tertib,Luka Ringan,Tinggi,Sedang
+90,Jl. Padjajaran                     ,Ramai,R4,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+91,Jl. Belitung ,Ramai,R4,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+92,Jl. Soekarno Hatta ,Ramai,R4,Tabrak Samping,lengah,Luka Ringan,rendah,Sedang
+93,Jl. Pamekar Raya ,Sepi,R2,Tabrak Depan,tidak terampil,Meninggal dunia,Tinggi,Berat
+94,Jl. Batununggal Raya ,Sedang,R4,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+95,Jl. BKR ,Sedang,R2,Tabrak Manusia,kecepatan tinggi,Meninggal dunia,rendah,Berat
+96,Jl. Terusan Jakarta ,Ramai,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+97,Jl. Holis ,Sepi,R4,Tabrak Depan,Mengantuk,Luka Ringan,rendah,Sedang
+98,Jl. Ir. H. Djuanda ,Sepi,R2,Tabrak Depan,lengah,Luka Berat,rendah,Berat
+99,Jl. Cigadung Raya ,Sedang,R2,Tabrak Depan,penyebab lain,Luka Ringan,rendah,Sedang
+100,Jl. Peta ,Ramai,R2,Tabrak Depan,tidak terampil,Luka Berat,rendah,Berat
+101,Jl. Diponogoro              ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+102,Jl. Surapati ,Ramai,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+103,Jl.PHH.Mustopa ,Sedang,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+104,Jl. Soekarno Hatta ,Sepi,R4,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+105,Jl. Pelajar Pejuang ,Sepi,R4,Tabrak Depan,tidak tertib,Luka Ringan,rendah,Sedang
+106,Jl. DR. Djundjunan ,Ramai,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+107,Jl. Ahmad Yani            ,Sepi,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+108,Jl. Peta ,Ramai,R2,Tabrak Depan,tidak tertib,Luka Ringan,Tinggi,Sedang
+109,Jl. Gatot Soebroto ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+110,Jl. Soekarno Hatta  ,Sepi,R2,Tabrak Manusia,tidak tertib,Luka Ringan,Tinggi,Sedang
+111,Jl. Asia Afrika ,Ramai,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+112,Jl. Soerapati ,Sepi,R2,Tabrak Depan,lengah,Meninggal dunia,rendah,Berat
+113,Jl. AH.Nasution ,Sepi,R2,Tabrak Manusia,tidak terampil,Luka Ringan,rendah,Sedang
+114,Jl. Ahmad Yani              ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+115,Jl. Ahmad Yani            ,Sedang,R2,Tabrak Depan,lengah,Meninggal dunia,rendah,Berat
+116,Jl. Gatot Soebroto ,Sepi,R2,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+117,Jl. Laswi ,Sedang,R2,Tabrak Tunggal,tidak terampil,Meninggal dunia,rendah,Berat
+118,Jl. DR.Setiabudhi       ,Ramai,R2,Tabrak Depan,lengah,Meninggal dunia,rendah,Berat
+119,Jl. Soekarno Hatta ,Ramai,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+120,Jl. Ibrahim Adjie ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+121,Jl. Merdeka ,Sepi,R4,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+122,Jl. Holis                            ,Sedang,R2,Tabrak Manusia,lengah,Meninggal dunia,rendah,Berat
+123,Jl.PHH.Mustopa ,Sedang,R2,Tabrak Depan,tidak tertib,Luka Ringan,rendah,Sedang
+124,Jl. Soekarno Hatta ,Sepi,R2,Tabrak Depan,lengah,Meninggal dunia,rendah,Berat
+125,Jl. Bojong Koneng ,Ramai,R2,Tabrak Depan,tidak terampil,Luka Ringan,Tinggi,Sedang
+126,Jl. Bungur ,Sedang,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+127,Jl. Lengkong Kecil ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+128,Jl. Supratman ,Sepi,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+129,Jl. Soekarno Hatta ,Sedang,R2,Tabrak Depan,lengah,Meninggal dunia,Tinggi,Berat
+130,Jl.PHH.Mustopa ,Sedang,R2,Tabrak Depan,tidak tertib,Luka Ringan,rendah,Sedang
+131,Jl.PHH.Mustopa ,Ramai,R2,Tabrak Manusia,lengah,Meninggal dunia,rendah,Berat
+132,Jl. Laswi ,Ramai,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+133,Jl. Golf ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+134,Jl. Sunda ,Sedang,R4,Tabrak Depan,tidak tertib,Meninggal dunia,rendah,Berat
+135,Jl. Cibaduyut ,Sepi,R4,Tabrak Depan,tidak tertib,Luka Berat,rendah,Berat
+136,Jl. Soekarno Hatta ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+137,Jl. Supratman ,Sepi,R2,Tabrak Depan,tidak terampil,Luka Ringan,Tinggi,Sedang
+138,Jl. Terusan Buahbtu ,Sedang,R2,Tabrak Manusia,lengah,Meninggal dunia,Tinggi,Berat
+139,Jl. Japati                          ,Ramai,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+140,Jl. PHH Mustofa ,Sedang,R2,Tabrak Depan,tidak tertib,Meninggal dunia,rendah,Berat
+141,Jl. DR. Djundjunan ,Sepi,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+142,Jl. Cimencrang,Sedang,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+143,Jl. Sindang Sirna ,Sepi,R4,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+144,Jl. Ahmad Yani                       ,Ramai,R2,Tabrak Manusia,lengah,Luka Ringan,rendah,Sedang
+145,Jl. Cibaduyut Lama ,Sedang,R2,Tabrak Manusia,kecepatan tinggi,Luka Ringan,rendah,Sedang
+146,Jl. AH.Nasution ,Sedang,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+147,Jl. Terusan Pasir Koja ,Sepi,R2,Tabrak Manusia,lengah,Luka Ringan,Tinggi,Sedang
+148,Jl. Diponogoro ,Ramai,R4,Tabrak Depan,lengah,Tidak Ada,Tidak ada,Ringan
+149,Jl. Raya Cimindi               ,Sepi,R4,Tabrak Depan,lengah,Meninggal dunia,rendah,Berat
+150,Jl. AH.Nasution ,Sepi,R2,Tabrak Manusia,kecepatan tinggi,Luka Ringan,rendah,Sedang
+151,Jl. AH.Nasution ,Ramai,R2,Tabrak Manusia,lengah,Meninggal dunia,rendah,Berat
+152,Jl. Ahmad Yani ,Ramai,R2,Tabrak Depan,tidak terampil,Meninggal dunia,Tinggi,Berat
+153,Jl. Surapati ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+154,Jl. Inggit Garnasih ,Sedang,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+155,Jl. Nagrog                          ,Ramai,R2,Tabrak Depan,tidak terampil,Luka Ringan,Tinggi,Sedang
+156,Jl. Layang Pasupati,Sepi,R2,Tabrak Samping,tidak terampil,Luka Ringan,rendah,Sedang
+157,Jl. Otto Iskandar Dinata ,Sedang,R2,Tabrak Samping,tidak terampil,Luka Ringan,Tinggi,Sedang
+158,Jl. Cibaduyut Lama ,Sepi,R2,Tabrak Depan,tidak tertib,Luka Ringan,Tinggi,Sedang
+159,Jl. AH.Nasution ,Sepi,R2,Tabrak Depan,tidak terampil,Meninggal dunia,Tinggi,Berat
+160,Jl. Wastukencana ,Sedang,R4,Tabrak Depan,lengah,Luka Berat,Tinggi,Berat
+161,Jl. Gunung Batu ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+162,Jl. DR.Setiabudhi ,Ramai,R2,Tabrak Depan,tidak terampil,Meninggal dunia,Tinggi,Berat
+163,Jl. DR.Setiabudhi ,Sepi,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+164,Jl. Sersan Bajuri ,Ramai,R4,Tabrak Manusia,lengah,Meninggal dunia,rendah,Berat
+165,Jl. Soekarno Hatta ,Sedang,R6,Tabrak Manusia,kecepatan tinggi,Luka Ringan,rendah,Sedang
+166,Jl. Gagak,Sepi,R2,Tabrak Manusia,kecepatan tinggi,Meninggal dunia,rendah,Berat
+167,Jl. Jawa ,Ramai,R2,Tabrak Depan,lengah,Luka Ringan,rendah,Sedang
+168,Jl. AH.Nasution ,Sedang,R2,Tabrak Depan,tidak terampil,Luka Ringan,rendah,Sedang
+169,Jl. Soekarno Hatta ,Sedang,R2,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+170,Jl. Gatot Soebroto ,Ramai,R2,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+171,Jl. Gunung Batu ,Ramai,R2,Tabrak Depan,tidak terampil,Luka Ringan,Tinggi,Sedang
+172,Jl. AH.Nasution ,Sepi,R2,Tabrak Depan,lengah,Luka Ringan,Tinggi,Sedang
+173,Jl. Golf ,Sedang,R2,Tabrak Depan,tidak terampil,Meninggal dunia,rendah,Berat
+174,Jl. Bojong Raya  ,Sepi,R4,Tabrak Samping,tidak terampil,Luka Ringan,Tinggi,Sedang

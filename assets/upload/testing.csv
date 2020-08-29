@@ -1,0 +1,161 @@
+Nomor,Nama,JK,Kategori Umur,Waktu,Jenis Kendaraan,Tipe Kecelakaan,Korban
+1,Sunprop Cipto,L,18-45,malam,Roda 2,Tabrak Belakang,Luka Ringan
+2,Yano Hamdani,P,18-45,sore,Roda 4,Tabrak Samping,Luka Ringan
+3,Juhana Alam,L,0-17,pagi,Roda 4,Tabrak Depan,Luka Ringan
+4,Suwardi Tua,L,46-65,pagi,Roda 2,Tabrak Samping,Meninggal dunia
+5,Agus Zenal,L,18-45,siang,Roda 2,Tabrak Manusia,Luka Ringan
+6,Asep Risna,L,46-65,sore,Roda 2,Tabrak Samping,Luka Ringan
+7,Deden Kusmana,L,66>,siang,Roda 2,Tabrak Samping,Luka Ringan
+8,Dikdik,L,18-45,pagi,Roda 4,Tabrak Belakang,Luka berat
+9,Mughni Ramdhan,L,18-45,siang,Roda 2,Tabrak Belakang,Luka Ringan
+10,Windu Nawang,P,18-45,sore,Roda 2,Tabrak Samping,Luka Ringan
+11,Dani Kusnadi,L,18-45,pagi,Roda 2,Tabrak Samping,Meninggal dunia
+12,W.Manalu,L,66>,sore,Roda 4,Tabrak Depan,Luka Ringan
+13,Fuji Firmansyah,L,18-45,malam,Roda 2,Tabrak Samping,Luka Ringan
+14,Resta Riharto,L,18-45,malam,Roda 2,Tabrak Samping,Meninggal dunia
+15,M.Ikhsan Hapiji,L,18-45,malam,Roda 2,Tabrak Belakang,Luka Ringan
+16,Karinda Yuningsih,P,0-17,pagi,Roda 2,Tabrak Samping,Luka Ringan
+17,Danang Achman,L,46-65,sore,Roda 2,Tabrak Samping,Luka Ringan
+18,Fauzi Sudradjat,L,18-45,sore,Roda 2,Tabrak Manusia,Luka Ringan
+19,Rizal Sakti,L,18-45,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+20,Fatmawati,P,18-45,siang,Roda 2,Tabrak Manusia,Luka Ringan
+21,Dicky M. Fauzi,L,18-45,malam,Roda 4,Tabrak Manusia,Meninggal dunia
+22,Sutarwin,L,18-45,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+23,Rizcky Septian,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+24,Vikri Muharawan,L,18-45,sore,Roda 2,Tabrak Belakang,Luka Ringan
+25,M. Nizar,L,46-65,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+26,Frans Masty Rudolf,L,46-65,siang,Roda 2,Tabrak Manusia,Luka Ringan
+27,Adianto,L,18-45,malam,Roda 2,Tabrak Samping,Luka Ringan
+28,Ade Sopian,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+29,Samsi Paryono,L,18-45,siang,Roda 6,Tabrak Samping,Luka Ringan
+30,Iyus Yusroni,L,18-45,pagi,Roda 2,Tabrak Samping,Luka Ringan
+31,Viqi Adam,L,18-45,sore,Roda 2,Tabrak Manusia,Luka Ringan
+32,Sri Utari,P,46-65,siang,Roda 4,Tabrak Belakang,Luka Ringan
+33,Yuyun Enan,P,18-45,siang,Roda 2,Tabrak Samping,Luka Ringan
+34,Sandi Meiyadi,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+35,Nenih Juariah,P,46-65,siang,Roda 2,Tabrak Belakang,Luka Ringan
+36,Lim Ristiani,P,66>,siang,Roda 2,Tabrak Samping,Luka Ringan
+37,Yuli Sofiati,P,46-65,pagi,Roda 4,Tabrak Manusia,Luka Ringan
+38,Daman,L,46-65,malam,Roda 2,Tabrak Depan,Luka Ringan
+39,Agus Darmawan,L,18-45,malam,Roda 4,Tabrak Tunggal,Luka Ringan
+40,Komariah,P,18-45,malam,Roda 4,Tabrak Samping,Luka Ringan
+41,adi Tripamuji,L,18-45,siang,Roda 2,Tabrak Depan,Luka Ringan
+42,Andri Kusnanto,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+43,Sri Suhartini,P,46-65,malam,Roda 2,Tabrak Manusia,Meninggal dunia
+44,M.Girang Rajati,L,0-17,siang,Roda 4,Tabrak Depan,Luka Ringan
+45,Mulyana Yusuf,L,18-45,malam,Roda 2,Tabrak Belakang,Luka Ringan
+46,Bilqis Media Yanti,P,18-45,siang,Roda 2,Tabrak Samping,Luka Ringan
+47,Helen Feronika,P,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+48,Iyan Sopian,L,18-45,siang,Roda 4,Tabrak Belakang,Luka Ringan
+49,Erna Irawan,P,18-45,sore,Roda 2,Tabrak Samping,Luka Ringan
+50,Iin Indra,L,18-45,pagi,Roda 4,Tabrak Depan,Luka Ringan
+51,Dwi Sudarta Nugraha,L,18-45,malam,Roda 2,Tabrak Belakang,Luka berat
+52,Bernas Tampubolon,L,46-65,malam,Roda 2,Tabrak Samping,Luka berat
+53,Jenatri Sinaga,L,46-65,malam,Roda 2,Tabrak Depan,Luka Ringan
+54,Hani Hasanah,P,46-65,malam,Roda 4,Tabrak Samping,Luka Ringan
+55,Baliga Setiadi,L,0-17,malam,Roda 2,Tabrak Depan,Luka Ringan
+56,Rizky Fauzia,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+57,Elgi Jeillian,L,18-45,malam,Roda 4,Tabrak Belakang,Luka Ringan
+58,Resy Putri Lestari,P,18-45,siang,Roda 2,Tabrak Belakang,Luka Ringan
+59,Diana Mulyasari,P,18-45,pagi,Roda 2,Tabrak Belakang,Meninggal dunia
+60,Samsu,L,18-45,sore,Roda 2,Tabrak Manusia,Meninggal dunia
+61,Utar Muchtar,L,46-65,pagi,Roda 4,Tabrak Samping,Meninggal dunia
+62,Diki Dwi Riyanto,L,18-45,malam,Roda 4,Tabrak Depan,Luka berat
+63,Indri Handarwati,P,18-45,pagi,Roda 2,Tabrak Manusia,Meninggal dunia
+64,Vidli Ferdiansyah,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+65,Irma Nuraini Sutisna,P,18-45,pagi,Roda 2,Tabrak Samping,Luka Ringan
+66,Dimas Abdul Karim,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+67,Devi Yulia,P,18-45,malam,Roda 2,Tabrak Depan,Meninggal dunia
+68,Caca,P,18-45,pagi,Roda 2,Tabrak Samping,Luka Ringan
+69,Anwarman Pandinganan,L,18-45,siang,Roda 6,Tabrak Manusia,Luka Ringan
+70,Giyati,P,18-45,pagi,Roda 2,Tabrak Samping,Luka Ringan
+71,Erwin Zaenal Mutaqin,L,18-45,malam,Roda 4,Tabrak Samping,Luka Ringan
+72,Ajat Sudrajat,L,18-45,sore,Roda 4,Tabrak Depan,Luka Ringan
+73,A.Rifki Fuad Hasan,L,18-45,malam,Roda 4,Tabrak Samping,Luka Ringan
+74,Dedi,L,46-65,sore,Roda 2,Tabrak Tunggal,Luka Ringan
+75,Doni Lesmana,L,0-17,malam,Roda 4,Tabrak Samping,Luka Ringan
+76,Euis Mardianti,P,18-45,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+77,Ratna Suminar,P,46-65,siang,Roda 2,Tabrak Manusia,Luka Ringan
+78,Andi Muharam,L,18-45,sore,Roda 2,Tabrak Depan,Luka Ringan
+79,Subandriyono,L,18-45,sore,Roda 6,Tabrak Manusia,Luka Ringan
+80,Herman Felani,L,18-45,malam,Roda 2,Tabrak Tunggal,Luka Ringan
+81,Sofyan,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+82,Sumanta,L,46-65,pagi,Roda 4,Tabrak Manusia,Luka Ringan
+83,Rosana Puspa Kalam,P,0-17,siang,Roda 4,Tabrak Manusia,Luka Ringan
+84,Dini Novia,P,18-45,malam,Roda 2,Tabrak Samping,Luka Ringan
+85,Haikal Mustopa,L,18-45,sore,Roda 2,Tabrak Manusia,Luka Ringan
+86,Asavant Aldwivia,L,18-45,siang,Roda 2,Tabrak Samping,Luka Ringan
+87,Agus Dayanto,L,18-45,sore,Roda 2,Tabrak Manusia,Luka Ringan
+88,Rivaldi Kurnia,L,18-45,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+89,Indah Permatasari,P,18-45,pagi,Roda 4,Tabrak Samping,Luka Ringan
+90,Erna Ernawati,P,18-45,sore,Roda 2,Tabrak Samping,Meninggal dunia
+91,Erik Ridwan,L,0-17,sore,Roda 2,Tabrak Manusia,Luka Ringan
+92,Utami Ramadhani,P,18-45,pagi,Roda 2,Tabrak Samping,Luka Ringan
+93,Eni Heryani,P,18-45,siang,Roda 4,Tabrak Belakang,Luka Ringan
+94,Gea Setia Pratama,L,18-45,sore,Roda 2,Tabrak Samping,Meninggal dunia
+95,Rizki Fauzi,L,0-17,siang,Roda 2,Tabrak Depan,Luka Ringan
+96,Enny Djayanti,P,46-65,malam,Roda 2,Tabrak Belakang,Luka Ringan
+97,Dani Ramdani,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+98,Susi Sutarti,P,18-45,siang,Roda 2,Tabrak Samping,Luka Ringan
+99,Friska Lesmana,P,18-45,pagi,Roda 4,Tabrak Belakang,Luka Ringan
+100,Devi Noviana,P,18-45,pagi,Roda 4,Tabrak Samping,Luka Ringan
+101,Yoke Betasuseta,P,18-45,malam,Roda 2,Tabrak Samping,Luka Ringan
+102,Abraham Satria,L,18-45,malam,Roda 4,Tabrak Manusia,Luka Ringan
+103,Aris Kiana,L,0-17,sore,Roda 2,Tabrak Manusia,Luka Ringan
+104,Nia Kurniati,P,46-65,siang,Roda 4,Tabrak Samping,Luka Ringan
+105,Enut,L,18-45,malam,Roda 6,Tabrak Belakang,Luka Ringan
+106,Rahman,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+107,M. Yasir Fadillah,L,0-17,sore,Roda 2,Tabrak Belakang,Luka Ringan
+108,Pramono agung,L,18-45,siang,Roda 2,Tabrak Belakang,Luka Ringan
+109,Rian Ramdani,L,18-45,malam,Roda 4,Tabrak Manusia,Luka Ringan
+110,Rafli Alhafiz,L,18-45,malam,Roda 2,Tabrak Belakang,Luka Ringan
+111,Suparman,L,46-65,malam,Roda 6,Tabrak Manusia,Luka Ringan
+112,Rendy Shandya,L,0-17,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+113,Fathul Umam,L,18-45,sore,Roda 2,Tabrak Belakang,Luka Ringan
+114,Lidyana Devi,P,18-45,pagi,Roda 2,Tabrak Samping,Luka Ringan
+115,Nurita Sihombing,P,46-65,malam,Roda 2,Tabrak Samping,Luka Ringan
+116,Saqinatun Nisa Fauzia,P,18-45,siang,Roda 4,Tabrak Manusia,Luka Ringan
+117,Rohmat,L,18-45,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+118,Harsis Galang Nugraha,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+119,Karina Apriliani,P,0-17,malam,Roda 2,Tabrak Belakang,Luka Ringan
+120,Sutisna,L,18-45,malam,Roda 2,Tabrak Tunggal,Meninggal dunia
+121,Ujang Juanda,L,46-65,malam,Roda 4,Tabrak Manusia,Luka Ringan
+122,Tarminto,L,18-45,malam,Roda 6,Tabrak Belakang,Luka Ringan
+123,Bangun Raharjo,L,18-45,pagi,Roda 2,Tabrak Depan,Luka Ringan
+124,Robert Pitara,L,18-45,siang,Roda 2,Tabrak Belakang,Luka Ringan
+125,Agus Suryanto,L,46-65,pagi,Roda 4,Tabrak Samping,Luka Ringan
+126,Nevi Lianti,P,18-45,pagi,Roda 2,Tabrak Samping,Meninggal dunia
+127,Firman Dyan Ramadhan,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+128,Deni Permadi,L,18-45,malam,Roda 2,Tabrak Belakang,Luka Ringan
+129,Tedi Irawan,L,18-45,pagi,Roda 4,Tabrak Samping,Luka Ringan
+130,Rudi,L,18-45,siang,Roda 6,Tabrak Manusia,Luka Ringan
+131,Oman Rohman,L,46-65,siang,Roda 2,Tabrak Depan,Luka Ringan
+132,Oki Juliyanto,L,18-45,pagi,Roda 2,Tabrak Manusia,Luka Ringan
+133,Jamaludin,L,46-65,siang,Roda 4,Tabrak Manusia,Luka Ringan
+134,Daniel Salim,L,46-65,siang,Roda 2,Tabrak Manusia,Luka Ringan
+135,Rizky Kusdian,L,18-45,siang,Roda 4,Tabrak Samping,Luka Ringan
+136,Iman Sulaiman,L,18-45,malam,Roda 4,Tabrak Manusia,Luka Ringan
+137,Kusnadi,L,46-65,pagi,Roda 6,Tabrak Belakang,Luka Ringan
+138,Jessica Tristi,P,18-45,pagi,Roda 2,Tabrak Belakang,Luka Ringan
+139,Deli Purnawi,P,18-45,pagi,Roda 2,Tabrak Depan,Luka Ringan
+140,Dwinita KusumaMawardi,P,18-45,pagi,Roda 4,Tabrak Manusia,Luka Ringan
+141,Rizhia,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+142,Nikodemus Widiapraja,L,46-65,pagi,Roda 2,Tabrak Belakang,Luka berat
+143,RobyEka Erlangga,L,18-45,pagi,Roda 2,Tabrak Manusia,Luka Ringan
+144,Adi Sugihartono,L,18-45,pagi,Roda 2,Tabrak Manusia,Luka Ringan
+145,Reinaldi Wilyanto,L,18-45,pagi,Roda 4,Tabrak Belakang,Meninggal dunia
+146,Agung Kurniawan,L,18-45,malam,Roda 2,Tabrak Depan,Luka Ringan
+147,Abdul Rozak,L,46-65,malam,Roda 2,Tabrak Samping,Luka berat
+148,Suhernik,L,46-65,pagi,Roda 2,Tabrak Samping,Luka berat
+149,Ranidin,L,18-45,pagi,Roda 4,Tabrak Belakang,Meninggal dunia
+150,Rizki Ilham Fadilla,L,18-45,siang,Roda 2,Tabrak Belakang,Luka Ringan
+151,Saepul Bahri,L,18-45,malam,Roda 2,Tabrak Samping,Meninggal dunia
+152,Tarudin,L,18-45,pagi,Roda 2,Tabrak Manusia,Luka Ringan
+153,Dadang Hadiansyah,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+154,M. Ramdhan,L,18-45,malam,Roda 2,Tabrak Manusia,Luka Ringan
+155,Ikman Ferdiansyah,L,18-45,malam,Roda 4,Tabrak Samping,Luka berat
+156,Nurodin,L,18-45,sore,Roda 4,Tabrak Samping,Meninggal dunia
+157,Hadi Tree Yuni,L,0-17,pagi,Roda 2,Tabrak Samping,Meninggal dunia
+158,Risma Hermati,P,18-45,siang,Roda 2,Tabrak Depan,Luka Ringan
+159,Zaenal Irfan,L,18-45,pagi,Roda 2,Tabrak Depan,Luka Ringan
+160,Ade Iqbal Maulana,L,18-45,malam,Roda 2,Tabrak Tunggal,Meninggal dunia
